@@ -7,7 +7,7 @@ header {
     margin: 0px;
     display:flex;
     justify-content: space-between;
-    font-family: "libre franklin";
+    font-family: "libre-franklin", sans-serif;
     padding: 0px 20px;
     width: 100%;
     
@@ -31,7 +31,7 @@ header a {
 .titolo p {
     color: #FFF;
 
-font-family: "Libre Franklin";
+font-family: "libre-franklin", sans-serif;
 font-size: 60px;
 font-style: normal;
 font-weight: 700;
@@ -41,7 +41,7 @@ width: 700px;
 .sottotitolo p {
     color: #FFF;
 padding-left: 5%;
-font-family: "Libre Franklin";
+font-family: "libre-franklin", sans-serif;
 font-size: 34px;
 font-style: normal;
 font-weight: 600;
@@ -50,7 +50,7 @@ line-height: normal;
 .dove p {
     color: #FFF;
 padding-left: 5%;
-font-family: "Libre Franklin";
+font-family: "libre-franklin", sans-serif;
 font-size: 21px;
 font-style: normal;
 font-weight: 400;
@@ -61,7 +61,7 @@ text-decoration-line: underline;
 .quando p {
     color: #FFF;
 padding-left: 5%;
-font-family: "Libre Franklin";
+font-family: "libre-franklin", sans-serif;
 font-size: 21px;
 font-style: normal;
 font-weight: 800;
@@ -92,7 +92,7 @@ section.hero img {
 }
 .artisti p {
     color: #000;
-font-family: "Libre Franklin";
+font-family: "libre-franklin", sans-serif;
 font-size: 36px;
 }
 .artisti {
@@ -121,7 +121,7 @@ background-color: white;
 }
 
 .card p {
-  font-family: "Libre Franklin";
+  font-family: "libre-franklin", sans-serif;
   font-size: 20px;
   font-weight: regular;
   text-align: center;
@@ -139,7 +139,7 @@ background-color: white;
 
 .verde p {
     color: #FFF;
-    font-family: "Libre Franklin";
+    font-family: "libre-franklin", sans-serif;
     font-size: 20px;
     font-weight: regular;
     width: 70%;
@@ -155,7 +155,7 @@ color: #000;
 }
 .accademia p {
 color: #000;
-font-family: "Libre Franklin";
+font-family: "libre-franklin", sans-serif;
 font-size: 24px;
 font-style: bold;
 
@@ -177,7 +177,7 @@ footer nav ul a {
     text-decoration: underline;
 }
 footer {
-font-family: "Libre Franklin";
+font-family: "libre-franklin", sans-serif;
 font-weight: bold;
 font-size: ;
 }
@@ -187,7 +187,7 @@ font-size: ;
     height: 0%;
     padding: 30px 0px;
     flex-direction: column;
-    font-family: "Libre Franklin";
+    font-family: "libre-franklin", sans-serif;
     font-weight: bold;    
     font-size: 64px;
 }
@@ -197,7 +197,7 @@ font-size: ;
     height: 0%;
     padding: 30px 0px;
     flex-direction: column;
-    font-family: "Libre Franklin";
+    font-family: "libre-franklin", sans-serif;
 }
 .stiky {
     position: sticky;
@@ -225,7 +225,7 @@ font-size: ;
    
 }
 .mostra  {
-    font-family: "Libre Franklin";
+    font-family: "libre-franklin", sans-serif;
     font-size: 40px;
     font-weight: bold;
     padding-left: 100px;
@@ -242,7 +242,7 @@ font-size: ;
 }
 
 .testomostra{
-    font-family: "Libre Franklin";
+    font-family: "libre-franklin", sans-serif;
     font-size: 20px;
     display: flex;
     flex-direction: column;
@@ -255,7 +255,7 @@ font-size: ;
 }
 .ultima {
     color: #F6CA2B;
-    font-family: "Libre Franklin";
+    font-family: "libre-franklin", sans-serif;
 font-size: 40px;
 font-weight: bold;
 padding-left: 5%;
