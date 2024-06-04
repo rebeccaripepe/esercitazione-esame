@@ -248,7 +248,7 @@ font-size: ;
     flex-direction: column;
     justify-content: space-around;
     align-items: center; 
-    width: 70%;
+    max-width: 70%;
     color: #89A928;
     padding: 5%;
 
