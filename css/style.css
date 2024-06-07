@@ -183,7 +183,7 @@ font-size: ;
 }
 .artistaadrian p {
     display: flex;
-    width: 0%;
+    width: 700px;
     height: 0%;
     padding: 30px 0px;
     flex-direction: column;
@@ -193,7 +193,7 @@ font-size: ;
 }
 .adrian p {
     display: flex;
-    width: 70%;
+    width: 700%;
     height: 0%;
     padding: 30px 0px;
     flex-direction: column;
@@ -218,7 +218,7 @@ font-size: ;
     display: flex;
 }
 .mostra {
-    width: 100%;
+    width: 700%;
     height: 0%;
     display: flex;
     flex-direction: column;
@@ -237,7 +237,7 @@ font-size: ;
 
 .mostra h1 { 
 
-    width: 100%;
+    width: 700%;
 
 }
 
@@ -248,7 +248,7 @@ font-size: ;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    max-width: 500px;
+    max-width: 700px;
     color: #89A928;
     padding: 5%;
 
